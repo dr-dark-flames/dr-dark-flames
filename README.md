@@ -1,4 +1,5 @@
-![blackhole](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/abdbdf0c-ff80-4b63-81e6-30fb84a703e4)
+
+![abstract-fluid-liquid](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1544ff9a-6e76-4eba-a56a-1d4b1df11402)
 
 # Aghyad - Fullstack Developer
 
