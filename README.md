@@ -27,3 +27,7 @@ Feel free to reach out to me via email at [your.email@example.com](mailto:your.e
 
 Let's connect and build something awesome together!
 
+## Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dark-flames)](https://github.com/anuraghazra/github-readme-stats)
+
