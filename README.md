@@ -41,9 +41,9 @@ Let's connect and build something awesome together!
 
 ## Support
 
-If you'd like to support my work, you can donate $1! Every contribution helps me alot. 😊
+If you'd like to support my work, you can [donate $1](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/7575ac06-acdb-4a19-abb4-92f118eb2b89).
 
-[![Donate](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1ce67342-1b66-47f9-a0de-5eeb8819a264)](https://your-donation-link.com)
+Every contribution helps me alot 😊
 
 ## Stats
 
