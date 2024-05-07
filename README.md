@@ -1,9 +1,18 @@
-
 ![abstract-fluid-liquid](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1544ff9a-6e76-4eba-a56a-1d4b1df11402)
 
 # Aghyad - Fullstack Developer
 
-Hello World! I'm Aghyad, a Fullstack Developer with expertise in building web applications, automation scripts, and AI-powered solutions. I love diving into various technologies and crafting innovative solutions to complex problems.
+Hello there! I'm Aghyad, a passionate Fullstack Developer with a background in computer science and a diverse range of interests beyond coding.
+
+## About Me
+
+I'm a graduate from the University of Toronto, where I majored in Computer Science. Currently, I'm delving deeper into the realms of cryptography/cybersecurity and machine learning/AI, constantly seeking to expand my knowledge and expertise in these areas.
+
+Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging in all kinds of sports, from calisthenics and martial arts to running, football and others. I'm also an avid reader, writer, and love to sketch and draw from time to time, and I enjoy unwinding with some gaming in my free time.
+
+## Interests
+
+I'm a fast learner and an explorer of new technologies and skills. I thrive on acquiring knowledge across a wide spectrum of subjects, not just limited to the tech world. Whether it's diving into the latest programming language or exploring a new hobby, I'm always up to learn new things and expand my arsenal.
 
 ## Skills
 
