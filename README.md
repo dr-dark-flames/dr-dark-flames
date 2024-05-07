@@ -35,7 +35,7 @@ Here are a few noteworthy projects I've worked on:
 
 ## Contact
 
-Feel free to reach out to me via email at [aghyad.alghazawi@example.com](mailto:aghyad.alghazawi@example.com). I'm open to collaboration opportunities and always excited to discuss new projects.
+Feel free to reach out to me via email at [aghyad.alghazawi@gmail.com](mailto:aghyad.alghazawi@gmail.com). I'm open to collaboration opportunities and always excited to discuss new projects.
 
 Let's connect and build something awesome together!
 
