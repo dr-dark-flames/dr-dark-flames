@@ -41,7 +41,8 @@ Let's connect and build something awesome together!
 
 ## Support
 
-Donate a 1$ ![file](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1ce67342-1b66-47f9-a0de-5eeb8819a264)
+Donate a 1$ if you would like to help T_T
+![file](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1ce67342-1b66-47f9-a0de-5eeb8819a264)
 
 ## Stats
 
