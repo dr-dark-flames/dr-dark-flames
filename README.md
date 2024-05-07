@@ -47,5 +47,5 @@ Every contribution helps me alot 😊
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dark-flames)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dark-flames&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
