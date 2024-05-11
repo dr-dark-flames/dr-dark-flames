@@ -1,4 +1,4 @@
-![icons8-unity](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/63995e6f-8b6b-4c1d-a320-5f718dea1e5d)![icons8-unity](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/3ccda8ca-931c-4361-afe3-63d03b2d9882)![icons8-unity](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/def63114-b86b-46df-830c-3385427f7d55)![abstract-fluid-liquid](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1544ff9a-6e76-4eba-a56a-1d4b1df11402)
+![abstract-fluid-liquid](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1544ff9a-6e76-4eba-a56a-1d4b1df11402)
 
 # Aghyad - Fullstack Developer
 
@@ -28,6 +28,7 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg" alt="node-js" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
 </p>
 
 <p align="left">
@@ -39,6 +40,7 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
 
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/qt-1.svg" alt="qt" width="40" height="40"/>
 </p>
 
 <p align="left">
@@ -55,27 +57,9 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/qt-1.svg" alt="qt" width="40" height="40"/>
-    <img src="https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/20a74e6e-0274-4f39-843d-6ab9479928d4" alt="unity" width="40" height="40"/>
+    <img src="https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/63995e6f-8b6b-4c1d-a320-5f718dea1e5d" alt="unity" width="40" height="40"/>
     <img src="https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/707c2112-2c8b-4dd7-a94b-76355392ad69" alt="unreal" width="40" height="40"/>
 </p>
-
-
-## Skills
-
-### Web Development
-- **Frontend:** HTML, CSS, Javascript, React, Tailwind CSS
-- **Backend:** Next.js, Express.js, Node.js, Prisma
-- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- **Others:** TypeScript, Framer Motion, Three.js
-
-### Scripting/Automation
-- **Languages:** Python, Bash, Commandline
-- **Tools & Libraries:** Various Python libraries for automation tasks
-
-### AI, Bots & Machine learning
-- **Languages:** Python
-- **Frameworks/Libraries:** TensorFlow, PyTorch, spaCy, opencv2
 
 ## Projects
 
