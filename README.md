@@ -86,7 +86,16 @@ Every contribution helps me alot 😊 <br>
 [<img src="https://cdn.worldvectorlogo.com/logos/paypal-3.svg" alt="PayPal" width="100" height="100">](https://paypal.me/drdarkflames)
 
 ## Stats
+<div style="display:flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr-dark-flames&theme=midnight-purple&hide_border=true" alt="GitHub Streak" style=" width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages" style="width: 100%;">
+</div>
 
+
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dr-dark-flames&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
