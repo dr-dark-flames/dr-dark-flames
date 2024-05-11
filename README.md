@@ -1,6 +1,6 @@
 ![abstract-fluid-liquid](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1544ff9a-6e76-4eba-a56a-1d4b1df11402)
 
-# Aghyad - Fullstack Developer
+# Aghyad - Software Engineer
 
 Hello there! I'm Aghyad, a passionate Fullstack Developer with a background in computer science and a diverse range of interests beyond coding.
 
@@ -87,6 +87,6 @@ Every contribution helps me alot 😊 <br>
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dr-dark-flames&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
