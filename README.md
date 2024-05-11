@@ -35,6 +35,7 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
@@ -50,9 +51,9 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
 
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="bash" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="powershell" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" alt="kali-linux" width="40" height="40"/>
 </p>
 
 <p align="left">
@@ -81,11 +82,11 @@ Let's connect and build something awesome together!
 
 ## Support
 
-If you'd like to support my work, you can [donate $1](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/7575ac06-acdb-4a19-abb4-92f118eb2b89).
-
-Every contribution helps me alot 😊
+Every contribution helps me alot 😊 <br>
+[<img src="https://cdn.worldvectorlogo.com/logos/paypal-3.svg" alt="PayPal" width="100" height="100">](https://paypal.me/drdarkflames)
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dark-flames&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dr-dark-flames&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dark-flames&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
