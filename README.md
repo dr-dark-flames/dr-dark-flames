@@ -44,6 +44,7 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/qt-1.svg" alt="qt" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
 <p align="left">
