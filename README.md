@@ -29,6 +29,8 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg" alt="node-js" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer-motion" width="40" height="40"/>
+    <img src="https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/d186b38e-8b98-46c5-9915-8843253ec307" alt="three.js" width="40" height="40"/>
 </p>
 
 <p align="left">
